@@ -1,0 +1,5 @@
+/* line 6, ../sass/style.scss */
+.btn, .button, .form-control {
+  -webkit-border-radius: 0;
+  border-radius: 0;
+}
